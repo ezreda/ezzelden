@@ -1,0 +1,20 @@
+/*
+.reda{
+    background-color: aqua;
+    width: 25px; ;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+.ezz{
+
+}
+*/
+*{
+    box-sizing: border-box;
+    font-family: "Segoe UI light";
+}
+.item{
+    width: 33%;
+    float: left;
+}
